@@ -3,4 +3,9 @@ layout: post
 title: My Machine Learning Projects
 ---
 
-I intend to keep it cool !
+I intend to fill  it  with cool Projects !
+
+
+## Author Identification 
+
+## Programming Lnaguage Detection 

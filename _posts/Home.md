@@ -6,8 +6,7 @@ title: My Machine Learning Projects
 I intend to fill  it  with cool Projects !
 
 
-## Author Identification 
+[https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/blob/master/_posts/page1.md](# Author Identification) 
 
-[a relative link](page1.md)
 
 ## Programming Language Detection 

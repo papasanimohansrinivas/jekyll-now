@@ -8,4 +8,4 @@ I intend to fill  it  with cool Projects !
 
 ## Author Identification 
 
-## Programming Lnaguage Detection 
+## Programming Language Detection 

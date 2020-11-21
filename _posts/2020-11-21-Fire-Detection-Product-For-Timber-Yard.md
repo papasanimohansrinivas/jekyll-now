@@ -98,6 +98,7 @@ Sample VFX fire screenshot are :-
  
  
 ## November 2020
+
  Recently i and **Shekhar** had  talk again about fire project , he also saw a timber yard got fire during deewali near his home. That made him reaffirm that we 
  
  need to build a model asap .We have set target to do it by end of this year any how.We also discussed how we can market it by looping insurance companies. 

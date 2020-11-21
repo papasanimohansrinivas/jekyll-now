@@ -1,7 +1,7 @@
 
 ### This is a ongoing blog about personal product we are building targeting business owners. 
 
-**I** and my colleague **Shekhar Patel**  are developing a hardware product for detecting fire accidents in  timber yard  with help of close friends and family .
+**I** and my colleague **Shekhar Patel**  are developing a **hardware product** for detecting **fire accidents** in  **timber yard**  with help of close friends and family .
 
 ## July 2019
 
@@ -102,7 +102,12 @@ Sample VFX fire screenshot are :-
  
  Recently i and **Shekhar** had a little talk again , he also saw a timber yard got fire during deewali. That made him reaffirm that we need to build a deep 
  
- learning model.We have set target to do it by end of this year any how.We also discussed how we can market looping insurance companies in between purchase.
+ learning model asap .We have set target to do it by end of this year any how.We also discussed how we can market it by looping insurance companies.   
+ 
+ **Shekhar** idea is that  insurance companies suggest our product copmulsury to install for insurance coverage guidelines.It would be also useful for evidence.
+ 
+ 
+ 
  
 
 

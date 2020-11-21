@@ -42,7 +42,7 @@ I was happy and started testing for fire detection from long distances and also 
 
 when  no fire is there. It failed in case of bedsheets when there are yellow or something.
 
-![Firenet failure on bedhseets]()
+![Firenet failure on bedhseets](https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/raw/master/images/08_08_2020_1.jpg)
 
 
 

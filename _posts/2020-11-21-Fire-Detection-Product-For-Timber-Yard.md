@@ -98,8 +98,7 @@ Sample VFX fire screenshot are :-
  ) for around 5000 images of artificial fire images extracted from video.
  
  
- ## November 2020
- 
+## November 2020
  Recently i and **Shekhar** had a little talk again , he also saw a timber yard got fire during deewali. That made him reaffirm that we need to build a deep 
  
  learning model asap .We have set target to do it by end of this year any how.We also discussed how we can market it by looping insurance companies.   

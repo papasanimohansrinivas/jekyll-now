@@ -30,7 +30,9 @@ It was bit long time back my memory was vague.
 
 I got switched back to old team in march 2020 and reunited with shekhar,sreeram,aditya and all. But CORONA happened  we went to lockdown and i came to my 
 
-hometown. While i was doing evening walking i menitioned it to my dad about the project. He encouraged me try solo.I was testing  again pretrained classification 
+hometown. While i was doing evening walking i menitioned it to my dad about the project. He encouraged me try solo.
+
+He had doubts that there were existing  cameras to do this , I tried to convince him otherwise.Again  anyway i was testing  again pretrained classification 
 
 models for fire.But  with no success but one saturday morining  i tried Firenet from twitter on candle fire it was able to draw a box correctly on it from 8 feet 
 
@@ -44,16 +46,27 @@ when  no fire is there. It failed in case of bedsheets when there are yellow or 
 
 ![Firenet failure on bedhseets](https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/raw/master/images/08_08_2020_1.jpg)
 
-I started talking to my friends and family, one of them  Jagadeeswar Reddy suggested to test on different fire colours and materials.At the same time i was afraid 
+I started talking to my friends and family, one of them  Jagadeeswar Reddy suggested to test on different fire colours and materials.And his point was real world 
 
-to try to train my own model and dropped the project for a while.
+fire are different colours and textures .At the same time i was afraid  to try to train my own model and dropped the project for a while.
 
 
 ## September 2020
 
-I got switched to different time and some different work than regular deployment work and i was ok with it.And when i was free on one saaurday afternoon and 
+I got switched to different team and to some different work than regular deployment and i was ok with it.And when i was free on one saaurday afternoon and 
 
-thinking i wanted to try to train latest state of the art Detr object detection on fire detection. 
+thinking i wanted to try to train latest state of the art Detr object detection on fire detection. Over the weekend i am able to train detr from facebook.I tested 
+
+on the previous images of fire i collected . It failed like where yolo also failed. My dad is also helping here and there setting up the demo fire at home when 
+
+ever necessary.In stead of sticking to the same model and i started to searching to other models to train . I was hit up with semi new model called efficientdet 
+
+d0-d7. I spent some reaserch to get source code to train on the model.I trained the model efficientdet d0 , effiecient d3 with transfer learning freezing the 
+
+backbone and also training the backbone too.Some of the results from the models ...
+
+![]()
+
 
 
 

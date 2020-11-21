@@ -1,7 +1,7 @@
 
 ### This is a ongoing blog about personal product we are building targeting business owners. 
 
-I and my colleague ShekharPatel  are developing a hardware product for detecting fires if they happen on timber  yard.
+I and my colleague Shekhar Patel  are developing a hardware product for detecting fires if they happen on timber yard.
 
 ## July 2019
 
@@ -68,9 +68,32 @@ backbone and also training the backbone too.
 
 ## October 2020
 
-In october i started to mention project to  my close friend **Sai Bhargav** and he introduced me our college friend **vishwateja**.We discussed in length about 
+In october i started to mention project to  my close friend **Sai Bhargav** and he introduced me our college friend **Vishwateja Gajulawarthy**.We discussed in 
 
-deployment aspects and that dataset has to be large for the project.I have got a feeling that it would be a good time to discuss it with **Shekhar**
+length about  deployment aspects and what  dataset has to be large for the project.There were questions that whether it would be practical  to sell  it in 
+
+**India**.  I felt it  would be a good time to discuss it again  with **Shekhar** and my sister  also nudged me to talk to him for guidance.Next evening i called 
+
+him and we discussed at length about the project ,he gave me an idea about where **cctv camera would be effective than smoke detectors is outdoor area like Timber 
+Yard**. Also gave me idea  to collect video from timber yard and **artificially introduce Fire** through **photoshop** in pictures.During discussion  we wanted to 
+
+commit to  the project idea and **make it like a affordable product.** I scraped the timber yard video from youtube  and started searching for a **VFX artist** in 
+
+my social circle.Early attempts for finding reliable vfx artist were not succesful from my side as they were bailing me or simply not responding to me after 
+
+sometime.Later **Shekhar** introduced me to **Fiverr** app and i succefully posted a job and able to get done vfx effects of fire embedded in 2 videos.
+
+Sample screenshot are :- 
+
+![]()
+
+
+
+
+
+
+
+
 
 
 

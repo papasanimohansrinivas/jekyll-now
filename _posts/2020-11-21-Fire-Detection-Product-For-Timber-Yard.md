@@ -28,7 +28,7 @@ It was bit long time back my memory was vague.
 
 ## June 2020
 
-I got switched back to old team in march 2020 and reunited with shekhar,sreeram,aditya and all. But CORONA happened  we went to lockdown and i came to my 
+I got switched back to old team in march 2020 and reunited with **Shekhar,Sreeram,Aditya** and all. But CORONA happened  we went to lockdown and i came to my 
 
 hometown. While i was doing evening walking i menitioned it to my dad about the project. He encouraged me try solo.
 
@@ -46,7 +46,7 @@ when  no fire is there. It failed in case of bedsheets when there are yellow or 
 
 ![Firenet failure on bedhseets](https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/raw/master/images/08_08_2020_1.jpg)
 
-I started talking to my friends and family, one of them  Jagadeeswar Reddy suggested to test on different fire colours and materials.And his point was real world 
+I started talking to my friends and family, one of them  **Jagadeeswar Reddy** suggested to test on different fire colours and materials.And his point was real world 
 
 fire are different colours and textures .At the same time i was afraid  to try to train my own model and dropped the project for a while.
 
@@ -63,9 +63,12 @@ ever necessary.In stead of sticking to the same model and i started to searching
 
 d0-d7. I spent some reaserch to get source code to train on the model.I trained the model efficientdet d0 , effiecient d3 with transfer learning freezing the 
 
-backbone and also training the backbone too.Some of the results from the models ...
+backbone and also training the backbone too.
 
-![]()
+
+## October 2020
+
+In october i started to mention project to some of my close friends for their opinion. 
 
 
 

@@ -68,7 +68,11 @@ backbone and also training the backbone too.
 
 ## October 2020
 
-In october i started to mention project to some of my close friends for their opinion. 
+In october i started to mention project to  my close friend **Sai Bhargav** and he introduced me our college friend **vishwateja**.We discussed in length about 
+
+deployment aspects and that dataset has to be large for the project.I have got a feeling that it would be a good time to discuss it with **Shekhar**
+
+
 
 
 

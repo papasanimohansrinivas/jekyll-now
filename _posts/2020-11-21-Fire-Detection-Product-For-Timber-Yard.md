@@ -11,7 +11,7 @@ So on somewhere around July 2019 , shekhar has discussed with me about fire acci
 
 Cut to the August 2019 we are discussing holiday plans for Independence day and I was scrolling thorugh twitter feed . I noticed somthing in  my feed regarding fire 
 
-detection https://twitter.com/OlafenwaMoses/status/1163776222993801217?s=20 and I immedeiately showed it to shekhar and we agreed  we would do it when in our free 
+detection [FireNet on Twitter](https://twitter.com/OlafenwaMoses/status/1163776222993801217?s=20) and I immedeiately showed it to shekhar and we agreed  we would do it when in our free 
 
 time. 
 

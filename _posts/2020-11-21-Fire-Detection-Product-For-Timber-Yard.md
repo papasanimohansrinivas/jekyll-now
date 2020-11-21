@@ -34,6 +34,7 @@ doing evening walking i menitioned it to my dad about the project. He encouraged
 
 with no success but one saturday morining  i tried Firenet from twitter on candle fire it was able to draw a box correctly on it from 8 feet distance.
 
+![Firenet detection on candle](https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/blob/master/images/08_08_2020_2.jpg)
 
 
 

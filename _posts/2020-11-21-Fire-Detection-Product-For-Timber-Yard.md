@@ -44,6 +44,18 @@ when  no fire is there. It failed in case of bedsheets when there are yellow or 
 
 ![Firenet failure on bedhseets](https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/raw/master/images/08_08_2020_1.jpg)
 
+I started talking to my friends and family, one of them  Jagadeeswar Reddy suggested to test on different fire colours and materials.At the same time i was afraid 
+
+to try to train my own model and dropped the project for a while.
+
+
+## September 2020
+
+I got switched to different time and some different work than regular deployment work and i was ok with it.And when i was free on one saaurday afternoon and 
+
+thinking i wanted to try to train latest state of the art Detr object detection on fire detection. 
+
+
 
 
 

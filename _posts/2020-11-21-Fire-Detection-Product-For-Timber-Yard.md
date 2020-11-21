@@ -1,7 +1,7 @@
 
 ### This is a ongoing blog about personal product we are building targeting business owners. 
 
-I and my colleague Shekhar Patel  are developing a hardware product for detecting fires if they happen on timber yard.
+**I** and my colleague **Shekhar Patel**  are developing a hardware product for detecting fire accidents in  timber yard  with help of close friends and family .
 
 ## July 2019
 
@@ -72,7 +72,7 @@ In october i started to mention project to  my close friend **Sai Bhargav** and 
 
 length about  deployment aspects and what  dataset has to be large for the project.There were questions that whether it would be practical  to sell  it in 
 
-**India**.  I felt it  would be a good time to discuss it again  with **Shekhar** and my sister  also nudged me to talk to him for guidance.Next evening i called 
+**India**.  I felt it  would be a good time to discuss it again  with **Shekhar** and my sister **B Theja**  also had same opinion.Next evening i called 
 
 him and we discussed at length about the project ,he gave me an idea about where **cctv camera would be effective than smoke detectors is outdoor area like Timber 
 Yard**. Also gave me idea  to collect video from timber yard and **artificially introduce Fire** through **photoshop** in pictures.During discussion  we wanted to 
@@ -83,13 +83,27 @@ my social circle.Early attempts for finding reliable vfx artist were not succesf
 
 sometime.Later **Shekhar** introduced me to **Fiverr** app and i succefully posted a job and able to get done vfx effects of fire embedded in 2 videos.
 
-Sample screenshot are :- 
+Sample VFX fire screenshot are :- 
 
 ![Fire vfx effect 1 in timber yard](https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/raw/master/images/out-1062.jpg)
 
 ![Fire vfx effect 2 in timber yard](https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/raw/master/images/out-1420.jpg)
 
-
+ I showed these to again to close friends and family, some commented that they were not realistic enough or not following laws of physics as there would be smoke 
+ 
+ also and flame characteristics (**Jagadeswar Reddy**) .I think these critisms are valid by friends and family .And dicussed these with **Shekhar** , his opinion 
+ 
+ was that smoke was difficult to detect by camera in general. We decided to move forward with the approach and start annotation( drawing bounding boxes for fire  
+ 
+ ) for around 5000 images of artificial fire images extracted from video.
+ 
+ 
+ ## November 2020
+ 
+ Recently i and **Shekhar** had a little talk again , he also saw a timber yard got fire during deewali. That made him reaffirm that we need to build a deep 
+ 
+ learning model.We have set target to do it by end of this year any how.We also discussed how we can market looping insurance companies in between purchase.
+ 
 
 
 

@@ -28,12 +28,24 @@ It was bit long time back my memory was vague.
 
 ## June 2020
 
-I got switched back to old teamd and reunited with shekhar,sreeram,aditya and all. But CORONA happened  we went to lockdown and i came to my hometown. While i was 
+I got switched back to old team in march 2020 and reunited with shekhar,sreeram,aditya and all. But CORONA happened  we went to lockdown and i came to my 
 
-doing evening walking i menitioned it to my dad about the project. He encouraged me try solo.I was testing  again pretrained classification models for fire.But 
+hometown. While i was doing evening walking i menitioned it to my dad about the project. He encouraged me try solo.I was testing  again pretrained classification 
 
-with no success but one saturday morining  i tried Firenet from twitter on candle fire it was able to draw a box correctly on it from 8 feet distance.
+models for fire.But  with no success but one saturday morining  i tried Firenet from twitter on candle fire it was able to draw a box correctly on it from 8 feet 
 
-![Firenet detection on candle](https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/raw/master/images/08_08_2020_2.jpg)
+distance.
+
+![Firenet detection on candle](https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/raw/master/images/08_08_2020_2.jpg). 
+
+I was happy and started testing for fire detection from long distances and also for false positives like what will happen when you run object detection on a scene 
+
+when  no fire is there. It failed in case of bedsheets when there are yellow or something.
+
+![Firenet failure on bedhseets]()
+
+
+
+
 
 

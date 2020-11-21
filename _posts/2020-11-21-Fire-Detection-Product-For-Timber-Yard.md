@@ -108,7 +108,7 @@ Sample VFX fire screenshot are :-
  
  Later that evening i went to CCTV dealer in hometown. I had a chat with the dealer for hour long and understood networking aspects of dvr to laptop connections.
  
- ![]()
+ ![DVR-Network-Switch-picture](https://github.com/papasanimohansrinivas/papasanimohansrinivas.github.io/raw/master/images/IMG-20201116-WA0001.jpg)
  
  Also gathered popular choices of cctv camera installations. Dealer also acknowledged that current low price  cctv camera has no fire detection . **Shekhar** also 
  

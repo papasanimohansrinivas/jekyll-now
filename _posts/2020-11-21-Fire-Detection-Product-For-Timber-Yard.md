@@ -72,10 +72,9 @@ In october i started to mention project to  my close friend **Sai Bhargav** and 
 
 length about  deployment aspects and what  dataset has to be large for the project.There were questions that whether it would be practical  to sell  it in 
 
-**India**.  I felt it  would be a good time to discuss it again  with **Shekhar** and my sister **B Theja**  also had same opinion.Next evening i called 
+**India**.Main concern by him is that people dont care much about fire safety   I felt it  would be a good time to discuss it again  with **Shekhar** and my 
 
-him and we discussed at length about the project ,he gave me an idea about where **cctv camera would be effective than smoke detectors is outdoor area like Timber 
-Yard**. Also gave me idea  to collect video from timber yard and **artificially introduce Fire** through **photoshop** in pictures.During discussion  we wanted to 
+sister **B Theja**  also had same opinion.Next evening i called him and we discussed at length about the project ,he gave me an idea about where **cctv camera would be effective than smoke detectors is outdoor area like Timber Yard**. Also gave me idea  to collect video from timber yard and **artificially introduce Fire** through **photoshop** in pictures.During discussion  we wanted to 
 
 commit to  the project idea and **make it like a affordable product.** I scraped the timber yard video from youtube  and started searching for a **VFX artist** in 
 
@@ -99,11 +98,25 @@ Sample VFX fire screenshot are :-
  
  
 ## November 2020
- Recently i and **Shekhar** had a little talk again , he also saw a timber yard got fire during deewali. That made him reaffirm that we need to build a deep 
+ Recently i and **Shekhar** had  talk again about fire project , he also saw a timber yard got fire during deewali near his home. That made him reaffirm that we 
  
- learning model asap .We have set target to do it by end of this year any how.We also discussed how we can market it by looping insurance companies.   
+ need to build a model asap .We have set target to do it by end of this year any how.We also discussed how we can market it by looping insurance companies. 
  
  **Shekhar** idea is that  insurance companies suggest our product copmulsury to install for insurance coverage guidelines.It would be also useful for evidence.
+ 
+ I also saw CMR shopping mall burnt down due to fire accident and i think this will be a good idea implemented in shopping mall too. 
+ 
+ Later that evening i went to CCTV dealer in hometown. I had a chat with the dealer for hour long and understood networking aspects of dvr to laptop connections.
+ 
+ ![]()
+ 
+ Also gathered popular choices of cctv camera installations. Dealer also acknowledged that current low price  cctv camera has no fire detection . **Shekhar** also 
+ 
+ started looking into cctv camera options with help of his brother  **Harsh Patel** and he ordered very recently **Raspberry Pi 4GB** as experimnetal hardware  
+ 
+ for our project.
+ 
+ 
  
  
  

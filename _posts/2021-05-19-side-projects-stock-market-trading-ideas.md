@@ -51,11 +51,14 @@ I may elaborately explain this process in future posts.
 
 # Future scope
 
-I am more than willing to colloborate (work) with anyone to bring their stock market ideas to a reality.
+I am thinking to know more people and their view towards the market and implement them in code as a service
 
-Infact i am writing this post may be for this sole purpose.I am excited about new oppurtunities this could bring.
+I am more than willing to colloborate (work) with anyone to bring their stock market ideas or in fact any idea to a reality.
 
-I have 6 years of writing python scripts and scaling servers in AWS cloud . Little experience in big data these days.
+Infact i am writing this post may be for this sole purpose.
 
+I have 6 years of writing python scripts and scaling servers in AWS cloud . some what Little experience in big data these days.
+
+Feel free to reach me through whatsapp 7093054982 or papasani.mohansrinivas@gmail.com 
 
 

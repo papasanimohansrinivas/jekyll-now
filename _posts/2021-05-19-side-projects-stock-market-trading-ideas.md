@@ -25,6 +25,7 @@ In 3 hrs had a first cut of code that goes to Yahoo finance Sheet
 
 i wont be posting any code here but a screen shot of command line output may be 
 
-![Screenshot from 2021-05-19 23-16-58](https://user-images.githubusercontent.com/13809378/118859971-78062180-b8f8-11eb-9c79-65b1a29852b5.png)
+![Screenshot from 2021-05-19 23-16-58](https://user-images.githubusercontent.com/13809378/118860409-fcf13b00-b8f8-11eb-967e-1a22fd12072a.png)
+
 
 

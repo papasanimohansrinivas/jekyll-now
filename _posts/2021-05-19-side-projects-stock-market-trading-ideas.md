@@ -20,12 +20,27 @@ So i realised and maybe probably he too realised that coding is the only way to 
 
 So we arranged a google meet and started live coding.
 
-In 3 hrs had a first cut of code that goes to Yahoo finance Sheet 
+In 3 hrs had a first cut of code that goes to Yahoo finance Website and then gets that webpage to laptop filters the table from webpage 
 
+and that uploads to google sheet.
 
-i wont be posting any code here but a screen shot of command line output may be 
-
+here is screenshot of command line output when u execute python code.
 ![Screenshot from 2021-05-19 23-16-58](https://user-images.githubusercontent.com/13809378/118860409-fcf13b00-b8f8-11eb-967e-1a22fd12072a.png)
+
+Later also coded up things like how much stock has changed from month beginning and week beginning.
+
+Currently automated this process for NIFTY 50 stocks.
+
+
+
+# Programming Side of things 
+
+First u need to have a google cloud developer account to access google sheets api.
+Then we need to make requests library call to yahoo page and extract tables by observing html page of website 
+
+![Screenshot from 2021-05-19 23-29-19](https://user-images.githubusercontent.com/13809378/118861696-6b82c880-b8fa-11eb-8f04-76550e925457.png)
+
+
 
 
 

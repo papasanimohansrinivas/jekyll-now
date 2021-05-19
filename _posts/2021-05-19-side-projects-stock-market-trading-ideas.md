@@ -36,11 +36,26 @@ Currently automated this process for NIFTY 50 stocks.
 # Programming Side of things 
 
 First u need to have a google cloud developer account to access google sheets api.
+
 Then we need to make requests library call to yahoo page and extract tables by observing html page of website 
 
 ![Screenshot from 2021-05-19 23-29-19](https://user-images.githubusercontent.com/13809378/118861696-6b82c880-b8fa-11eb-8f04-76550e925457.png)
 
+Now we extract  the tables from html page with beautiful soup python library.
 
+We also derive change of price compared to month beginning and every week beginning using pandas python library.
+
+Then google provides api to modify ur google sheet with help of python api calls to their google sheets.
+
+I may elaborately explain this process in future posts.
+
+# Future scope
+
+I am more than willing to colloborate (work) with anyone to bring their stock market ideas to a reality.
+
+Infact i am writing this post may be for this sole purpose.I am excited about new oppurtunities this could bring.
+
+I have 6 years of writing python scripts and scaling servers in AWS cloud . Little experience in big data these days.
 
 
 
